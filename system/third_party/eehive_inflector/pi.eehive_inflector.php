@@ -97,7 +97,7 @@ class Eehive_inflector
   {
   ob_start(); 
   ?>
-Provides several function so change words to plural, singular, camel case, etc.
+Provides several functions to change words to plural, singular, camel case, etc.
 This plugin is based on CodeIgniter's Inflector helper.
 (http://codeigniter.com/user_guide/helpers/inflector_helper.html)
 
